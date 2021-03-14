@@ -17,4 +17,4 @@ License: No license specified
 License Source: 
 Link to Source Data: https://hub.arcgis.com/datasets/undesa::indicator-2-a-1-agriculture-orientation-index-for-government-expenditures?orderBy=sources
 Tag(s): nan
-Other Notes: N/A
+Other Notes: NA
