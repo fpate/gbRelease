@@ -4,17 +4,17 @@ Metadata for: AIRPOLDTHS
 Full Variable Name: Deaths due to air pollution
 ==============================================================
 
-Data Definition: 
-Units: 
+Data Definition: Deaths due to air pollution
+Units: N/A
 Data Representative Of Year(s): 2016-2016
 geoBoundary Shapefile Dataset API Link: https://www.geoboundaries.org/gbRequest.html?ISO=GLB&VER=3_0_0&ADM=ADM0
 Each row ID is defined by: ISO 3166-1 alpha-3
-Data Processing Methodology: 
-Data Collection Methodology (or link to documentation): 
+Data Processing Methodology: N/A
+Data Collection Methodology (or link to documentation): https://data.worldbank.org/indicator/SH.STA.AIRP.P5
 Source 1: The World Bank
 Source 2: 
-License: 
+License: open with attribution
 License Source: 
 Link to Source Data: https://data.worldbank.org/indicator/SH.STA.AIRP.P5
 Tag(s): Health
-Other Notes: 
+Other Notes: N/A
